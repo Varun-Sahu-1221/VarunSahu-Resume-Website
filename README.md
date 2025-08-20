@@ -40,6 +40,8 @@ Live Demo: The easiest way is to visit the live version hosted at: https://varun
 Let's Connect! 🤝
 I'm always open to connecting with new people, discussing tech, or exploring new opportunities. Feel free to reach out!
 
+Github link for code: https://github.com/Varun-Sahu-1221/VarunSahu-Resume-Website
+
 GitHub: https://github.com/Varun-Sahu-1221
 
 Email:  varunsahu1221@gmail.com
